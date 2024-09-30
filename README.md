@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é João Tonin!
+# 👋 Olá, meu nome é João Tonin!
 
 🎓 Estudante de Ciência da Computação na Universidade Feevale.
 
